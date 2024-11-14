@@ -1,5 +1,7 @@
 streamlit
 requests
 beautifulsoup4
-transformers
-torch
+transformers==4.31.0
+torch==2.0.0
+pandas
+plotly
