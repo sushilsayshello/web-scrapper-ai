@@ -1,5 +1,5 @@
 streamlit
-selenium
+requests
 beautifulsoup4
-langchain_ollama
-python-dotenv
+transformers
+torch
