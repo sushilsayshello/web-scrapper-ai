@@ -1,8 +1,5 @@
-streamlit 
-langchain 
-langchain_ollama
+streamlit
 selenium
 beautifulsoup4
-lxml 
-html5lib
+langchain_ollama
 python-dotenv
